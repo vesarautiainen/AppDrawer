@@ -1,0 +1,17 @@
+{
+    "name": "applicationdrawer.vesar",
+    "description": "description of ApplicationDrawer",
+    "architecture": "all",
+    "title": "ApplicationDrawer",
+    "hooks": {
+        "ApplicationDrawer": {
+            "apparmor": "ApplicationDrawer.apparmor",
+            "desktop":  "ApplicationDrawer.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Vesa Rautiainen <vesa.rautiainen@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04.4"
+}
+
+

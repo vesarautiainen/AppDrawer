@@ -1,0 +1,16 @@
+module Prototype.Components
+
+App 0.3 App.qml
+AppControls 0.3 AppControls.qml
+ResponsiveControls 0.3 ResponsiveControls.qml
+MainView 0.3 MainView.qml
+EdgeDragArea 0.3 EdgeGesture/EdgeDragArea.qml
+EdgeGestureDetector 0.3 EdgeGesture/EdgeGestureDetector.qml
+DraggingArea 0.3 EdgeGesture/DraggingArea.qml
+Line 0.3 Line.qml
+QmlUtils 0.3 QmlUtils.js
+ListModelUtils 0.3 ListModelUtils.js
+MathUtils 0.3 MathUtils.js
+DebugRect 0.3 DebugRect.qml
+Easing 0.3 Easing.js
+

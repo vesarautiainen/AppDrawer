@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ApplicationDrawer
+Exec=qmlscene -I prototype-toolkit %U Main.qml
+Icon=ApplicationDrawer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
+Name[en_AU]=ApplicationDrawer
